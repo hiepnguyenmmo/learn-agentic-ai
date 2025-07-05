@@ -3,4 +3,4 @@ openai==1.12.0
 python-dotenv==1.0.0
 pydantic==2.6.1
 sqlalchemy==2.0.27
-gunicorn==21.2.0  # For production serving 
+gunicorn==23.0.0  # For production serving 
